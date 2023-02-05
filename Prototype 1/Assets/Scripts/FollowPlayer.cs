@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FollowPlayer : MonoBehaviour
 {
+    // Initializing Variables
     public GameObject player; // Getting a game object in unity
     private Vector3 offset = new Vector3(0, 4.65f, -6.47f); // for the camera
 
