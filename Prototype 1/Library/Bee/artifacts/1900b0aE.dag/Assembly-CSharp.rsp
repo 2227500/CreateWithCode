@@ -359,7 +359,9 @@
 "Assets/Challenge 1/Scripts/PropellerX.cs"
 "Assets/Scripts/AiVechicleMovement.cs"
 "Assets/Scripts/FollowPlayer.cs"
+"Assets/Scripts/FollowPlayer2.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/SwitchCamera.cs"
 -langversion:9.0
 
 /deterministic
