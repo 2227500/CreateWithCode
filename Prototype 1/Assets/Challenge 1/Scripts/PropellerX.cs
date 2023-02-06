@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class PropellerX : MonoBehaviour
 {
-    public float rotateValue;
-
     // Start is called before the first frame update
     void Start()
     {
